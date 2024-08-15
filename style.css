@@ -1,0 +1,37 @@
+body{
+  background: #0f78c9;
+  font-family: 'Courier New', Courier, monospace;
+}
+.container{
+  width:400px;
+  background-color: white;
+  text-align: center;
+  padding: 33px;
+  margin-left: 33%;
+  margin-top: 5px;
+}
+.inputs{
+  width: 360px;
+  height: 25px;
+  padding: 14px;
+  border: 2px solid black;
+  outline: none;
+  font-size: 19px;
+}
+button{
+  width: 60px;
+}
+.text ul{
+  position: relative;
+  width: 380px;
+  background-color: black;
+  color: white;
+  font-size: 19px;
+  padding: 6px;
+  text-align: left;
+}
+.text ul i{
+  position: absolute;
+  right: 10px;
+  cursor: pointer;
+}
